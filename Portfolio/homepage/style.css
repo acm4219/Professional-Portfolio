@@ -1,31 +1,32 @@
-.body-background{
-    background-color: #6E0A1E;
-
+.body-background {
+  background-color: #6e0a1e;
 }
-.cont-background{
-    background-color: #AA8C2C;
+.cont-background {
+  background-color: #aa8c2c;
 }
-.navbar-style{
-    background-color: #580818; 
+.navbar-style {
+  background-color: #580818;
 }
-.footer-background{
-    background-color: #580818; 
+.footer-background {
+  background-color: #580818;
 }
-.img{
-    width: 600px;
+.img {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
 }
-.img2{
-    width: 525px;
+.img2 {
+  width: 100%;
+  max-width: 525px;
+  height: auto;
 }
-.img3{
-    width: 700px;
+.profile-img {
+  width: 100%;
+  height: auto;
 }
-.img4{
-    width: 700px;
+.btn-col {
+  background-color: #c2a134;
 }
-.btn-col{
-    background-color: #c2a134;
-}
-.span-text{
- color: white;
+.span-text {
+  color: white;
 }
